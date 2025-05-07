@@ -9,11 +9,11 @@ By using or modifying this code, you agree to:
 - Not use it for malicious purposes.
 - Respect privacy and applicable laws in your country.
 
-The author is not responsible for any damage, misuse, or legal consequences resulting from the use of this code.
+I am not responsible for any damage, misuse, or legal consequences resulting from using this code.
 
 # Python Keylogger (Educational Use Only)
 
-This is a simple keylogger script built using Python and the `pynput` module. It captures keyboard input and logs it to a file named `keyboardlog.txt`.
+This simple keylogger script was built using Python and the `pynput` module. It captures keyboard input and logs it to a file named `keyboardlog.txt`.
 
 ## Features
 - Logs normal and special keys (e.g., Enter, Tab, Backspace)
